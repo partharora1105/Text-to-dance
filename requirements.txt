@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pydub
+yt-dlp
+ffmpeg-python
+pywavelets
+scipy
